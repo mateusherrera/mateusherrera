@@ -1,4 +1,5 @@
 ### Olá visitante, seja bem-vindo! Me chamo Mateus Herrera
+##
 
   <div>
     <a href="https://github.com/mateusherrera">
@@ -12,6 +13,7 @@
     <img align="center" alt="Mateus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">|
     <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|
     <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="right" width="140" height="140" alt="Mateus-gif1" src="https://cdn.discordapp.com/attachments/776590740523712522/881995253031239782/gif1.gif">
   </div>
 
 ##
@@ -25,3 +27,5 @@
     <a href="https://www.reddit.com/user/MattHG05" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"> </a>
     <a href="mailto:mateusherreragb05@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   </div>
+
+Minha linguagem favorita é C 😁
