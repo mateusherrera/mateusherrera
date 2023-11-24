@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94e2d5&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94e2d5&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+MATEUS+HERRERA;I+AM+FROM+UBERLÂNDIA,+MG,+BRAZIL;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94e2d5&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+MATEUS+HERRERA;I'M+FROM+UBERLÂNDIA,+MG,+BRAZIL;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateusherrera&show_icons=true&count_private=true&hide_border=true&title_color=94e2d5&icon_color=94e2d5&text_color=94e2d5&bg_color=1e1e2e" alt="Mateus Herrera Github Stats">
