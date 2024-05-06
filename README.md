@@ -9,12 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateusherrera&bg_color=1e1e2e&color=94e2d5&line=89b4fa&point=74c7ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateusherrera/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0" target="_blank"> </a>
-  <a href="mailto:mateusherreragb05@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0" target="_blank"> </a>
-  <a href="https://www.instagram.com/mateus.cpp" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0" target="_blank"> </a>
-</div>
-
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
