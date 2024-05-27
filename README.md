@@ -19,11 +19,11 @@
 ### Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
@@ -46,7 +46,5 @@
 
 ### Studying in this moment:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94e2d5&height=120&section=footer">
