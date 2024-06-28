@@ -46,5 +46,6 @@
 
 ### Studying in this moment:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=visual-studio-code&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94e2d5&height=120&section=footer">
