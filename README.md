@@ -20,7 +20,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 ### Other Knowledge:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
