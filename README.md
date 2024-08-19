@@ -27,7 +27,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 ### Studying in this moment:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=visual-studio-code&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94e2d5&height=120&section=footer">
