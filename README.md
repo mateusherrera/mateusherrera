@@ -9,8 +9,6 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 ### Tools:
@@ -25,6 +23,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
