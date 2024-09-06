@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94e2d5&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+MATEUS+HERRERA;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusherrera&layout=compact&hide_border=true&title_color=94e2d5&text_color=94e2d5&bg_color=1e1e2e">
+<div align="center">
+  <img width="60%" height="300px" src="https://github-readme-stats.vercel.app/api?username=mateusherrera&show_icons=true&theme=radical" >
+  <img width="30%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusherrera&hide_border=true&title_color=94e2d5&text_color=94e2d5&bg_color=1e1e2e" >
 </div>
 
 ### Main skills:
