@@ -22,6 +22,6 @@
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=11111b&color=B5E8E0&logoColor=e
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94e2d5&height=120&section=footer">
