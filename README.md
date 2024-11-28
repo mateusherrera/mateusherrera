@@ -10,6 +10,7 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=pandas&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
