@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94e2d5&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+MATEUS;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mateusherrera&show_icons=true&theme=radical" alt="GitHub Stats for Mateus Herrera">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusherrera&theme=dracula&include_all_commits=true&count_private=true&layout=compact">
 <img src="https://img.shields.io/static/v1?label=Overview&message=Mateus+Herrera&style=for-the-badge&logo=Github&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0" alt="Static GitHub">
 
 <p>Currently, I work at CheckUp Medicina & Diagnóstico<br/> There, I am a Full Stack Developer (Python/React)</p>
