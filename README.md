@@ -7,7 +7,7 @@
 
 <p>Atualmente desenvolvedor no CheckUp Medicina & Diagnóstico.<br/> Principalmente atuando com Backend em Python/Django.</p>
 
-### Principais técnicas:
+### Principais habilidades:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)
