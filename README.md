@@ -7,10 +7,11 @@
 
 <p>Atualmente desenvolvedor no CheckUp Medicina & Diagnóstico.<br/> Principalmente atuando com Backend em Python/Django.</p>
 
-### Main skills:
+### Principais técnicas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94e2d5&height=120&section=footer">
