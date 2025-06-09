@@ -5,7 +5,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusherrera&theme=dracula&include_all_commits=true&count_private=true&layout=compact">
 <img src="https://img.shields.io/static/v1?label=Overview&message=Mateus+Herrera&style=for-the-badge&logo=Github&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0" alt="Static GitHub">
 
-<p>Atualmente desenvolvedor no CheckUp Medicina & Diagnóstico<br/> Principalmente atuando em Backend (Python/Django)</p>
+<p>Atualmente desenvolvedor no CheckUp Medicina & Diagnóstico.<br/> Principalmente atuando em Backend (Python/Django).</p>
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
