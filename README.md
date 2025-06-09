@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Mateus+Herrera&style=for-the-badge&logo=Github&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0" alt="Static GitHub">
 
 <p>Atualmente desenvolvedor no CheckUp Medicina & Diagnóstico.<br/> Principalmente atuando com Backend em Python/Django.</p>
+<br>
+<hr>
 
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=11111b&color=B5E8E0&logoColor=e0e0e0)&nbsp;
