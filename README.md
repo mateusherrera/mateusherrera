@@ -7,6 +7,7 @@
 
 <p>Atualmente desenvolvedor no CheckUp Medicina & Diagnóstico.<br/> Principalmente atuando com Backend em Python/Django.</p>
 <br>
+<br>
 <hr>
 
 ### Principais habilidades:
