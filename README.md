@@ -1,4 +1,5 @@
 # Olá, visitante! Me chamo Mateus
+### AI Software Developer @ [Alura](https://www.alura.com.br/).
 
 ---
 
@@ -7,8 +8,6 @@
 Sou desenvolvedor de software focado em soluções que utilizam Inteligência Artificial. Me considero uma pessoa extremamente curiosa e gosto de entender o fluxo completo das informações e dos sistemas.
 
 Além do desenvolvimento de software, tenho grande interesse por DevOps, Arquitetura de Software e Segurança da Informação, especialmente quando aplicada a sistemas baseados em IA.
-
-Atualmente Dev na [Alura](https://www.alura.com.br/).
 
 ---
 
