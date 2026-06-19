@@ -13,6 +13,7 @@ Além do desenvolvimento de software, tenho grande interesse por DevOps, Arquite
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,typescript,docker,linux,arch,git,github)](https://skillicons.dev)
 
+---
 <p align="left">
   <a href="https://linkedin.com/in/mateusherrera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
